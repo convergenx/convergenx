@@ -8,13 +8,13 @@ Whether you're managing containers, websites, self-hosted services, media downlo
 
 ## ✨ Key Features
 
-- 🧩 **Plugin-First Architecture**: Every piece of functionality is a plugin. Mix and match for system time, Docker, media server stats, security, and backups.
-- 🗂️ **Grid-Based Layout**: A fully customizable interface via `dashboard.json`, featuring collapsible panels and a drag-and-drop card system.
-- 📄 **JSON-Configured Cards**: Define a card's title, icon, refresh interval, and even the shell command it runs—all through JSON, no PHP required.
-- 📥 **Media Workflow Integration**: Live status and control for a variety of download clients and media servers.
+- 🧩 **Plugin-First Architecture**: Every piece of functionality is a plugin. Mix and match for system metrics, container management, media stats, security, backups, and much more. Need something custom/specific? Create a plugin - easy-peasey.
+- 🗂️ **Grid-Based Layout**: A fully customizable interface via `dashboard.json`, featuring multiple tabs, collapsible panels, and a drag-and-drop card system with multi-state cards.
+- 📄 **JSON-Configured Cards**: Define a card's title, icon, refresh interval, multiple states (configurations with various sizes and levels of detail) and even the shell command it runs—all through JSON, no PHP required.
 - 🐳 **Container Management**: View Docker container status, uptime, resource usage, and execute commands like restart.
 - 🔐 **Security Overview**: Monitor active sessions, firewall status, and security logs (e.g., fail2ban) from a centralized view.
 - 💾 **Backup Orchestration**: Monitor backup job status and initiate snapshots or restores directly from the dashboard.
+- 📥 **Media Workflow Integration**: Live status and control for a variety of download clients and media servers.
 - 📲 **Automation Triggers**: Execute scripts securely via webhook or SSH triggers with live feedback.
 - 🎨 **Themeable Interface**: Support for light and dark modes with clean, functional visuals.
 
@@ -22,7 +22,7 @@ Whether you're managing containers, websites, self-hosted services, media downlo
 
 ## 🧠 Philosophy
 
-Convergenx is built for homelabbers and server administrators who value a transparent and automatable workflow. It emphasizes a simple, JSON-driven configuration that puts you in full control of your server environment.
+Convergenx is built for homelabbers and server administrators who value a flexible and automatable workflow. It emphasizes a simple, JSON-driven configuration that puts you in full control of your server environment.
 
 ---
 
