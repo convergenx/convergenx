@@ -1,0 +1,61 @@
+{
+  "dashboard": {
+    "title": "My Convergenx Dashboard",
+    "theme": "dark",
+    "gridColumns": 12,
+    "gridRows": 8
+  },
+  "panels": [
+    {
+      "id": "panel_system",
+      "title": "System Health",
+      "width": 6,
+      "height": 3,
+      "x": 0,
+      "y": 0,
+      "collapsed": false,
+      "cards": [
+        {
+          "type": "system-time",
+          "title": "Server Time",
+          "refreshInterval": 10
+        },
+        {
+          "type": "system-time", 
+          "title": "System Uptime",
+          "refreshInterval": 30
+        }
+      ]
+    },
+    {
+      "id": "panel_docker",
+      "title": "Coming Soon",
+      "width": 6,
+      "height": 3,
+      "x": 6,
+      "y": 0,
+      "cards": [
+        {
+          "type": "system-time",
+          "title": "Future: Docker Status",
+          "refreshInterval": 15
+        }
+      ]
+    },
+    {
+      "id": "panel_media",
+      "title": "Coming Soon",
+      "width": 12,
+      "height": 2,
+      "x": 0,
+      "y": 3,
+      "cards": [
+        {
+          "type": "system-time",
+          "title": "Future: Media Server",
+          "refreshInterval": 30
+        }
+      ]
+    }
+  ]
+}
