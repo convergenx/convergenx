@@ -22,7 +22,7 @@ Whether you're managing downloads, restarting containers, inspecting logs, or tr
 
 ## 🧠 Philosophy
 
-Convergenx is built for homelabbers and media hoarders who value a transparent and automatable workflow. It emphasizes a simple, JSON-driven configuration that puts you in full control of your server environment.
+Convergenx is built for homelabbers and server administrators who value a transparent and automatable workflow. It emphasizes a simple, JSON-driven configuration that puts you in full control of your server environment.
 
 ---
 
