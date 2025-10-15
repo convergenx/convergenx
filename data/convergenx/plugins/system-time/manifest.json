@@ -1,0 +1,9 @@
+{
+  "name": "System Time",
+  "version": "1.0.0",
+  "description": "Displays current server time and date",
+  "author": "Convergenx",
+  "type": "shell",
+  "command": "get_time.sh",
+  "refreshInterval": 10
+}
