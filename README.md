@@ -2,7 +2,7 @@
 
 **Convergenx** (pronounced "Convergence" and abbreviated "Cx") is a modular, plugin-driven server dashboard built for clarity, control, and flexibility. It runs as a lightweight PHP web app with a grid-based layout, collapsible panels, and JSON-configured cards—giving you comprehensive visibility into your media workflows, system metrics, containers, backups, and automation triggers.
 
-Whether you're managing downloads, restarting containers, inspecting logs, or triggering scripts, Convergenx lets you orchestrate it all from a single, expressive interface.
+Whether you're managing containers, websites, self-hosted services, media downloads, inspecting logs, or triggering scripts, Convergenx lets you orchestrate it all from a single, expressive interface that you design and create, with your exact requirements, specifications, and workflow in mind.
 
 ---
 
